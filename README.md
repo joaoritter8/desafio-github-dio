@@ -1,2 +1,2 @@
-# Repositório para o desafio da DIO sobre Git/Github
-Desafio realizado para o bootcamp da Digital Innovation One sobre Git/Github
+Desafio da DIO sobre Git/Github
+Repositório para o desafio realizado no bootcamp da Digital Innovation One sobre Git/Github
